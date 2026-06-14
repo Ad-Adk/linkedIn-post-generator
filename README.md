@@ -215,4 +215,12 @@ Open the local URL displayed by Streamlit.
 
 ## License
 
-This project is intended for educational and learning purposes. Update the license section as needed for your repository.
+This project is intended for educational and learning purposes.
+
+## Credits
+
+This project was inspired by the LinkedIn Post Generator project taught by **Codebasics** as part of their Generative AI learning content.
+
+The original idea served as a foundation for exploring prompt engineering and AI-powered content generation. This repository builds upon that learning experience with additional retrieval, embedding, caching, and customization features.
+
+Many thanks to the Codebasics team for creating high-quality educational content and making AI concepts accessible to learners and developers.
